@@ -1,0 +1,25 @@
+{
+    "name": "ymapsapi-shape-layer",
+    "title": "Yandex Maps API ShapeLayer module",
+    "description": "JavaScript library for rendering geoinfographics using Yandex Maps API",
+    "version": "1.0.0",
+    "main": "ShapeLayer.js",
+    "author": {
+        "name": "Yandex",
+        "url": "https://github.com/twirl/ymapsapi-shape-layer/blob/master/AUTHORS.md"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/twirl/ymapsapi-shape-layer.git"
+    },
+    "keywords": [
+        "maps",
+        "infographics"
+    ],
+    "bugs": {
+        "url": "https://github.com/twirl/ymapsapi-shape-layer/issues"
+    },
+    "license": "MIT",
+    "dependencies": {},
+    "devDependencies": {}
+}

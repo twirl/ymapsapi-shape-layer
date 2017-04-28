@@ -1,4 +1,4 @@
-© YANDEX LLC, 2014-2015 The Source Code called "ymapsapi-shape-layer" available at https://github.com/twirl/ymapsapi-shape-layer is subject to the terms of the following licence:
+© YANDEX LLC, 2016-2017 The Source Code called "ymapsapi-shape-layer" available at https://github.com/twirl/ymapsapi-shape-layer is subject to the terms of the following licence:
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
